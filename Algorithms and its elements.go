@@ -35,7 +35,7 @@ Begin
 
     EndWhile
 
-    // Count the period
+    // Count 
     length := length + 1
 
     Print(length)
